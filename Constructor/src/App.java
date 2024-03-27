@@ -1,6 +1,7 @@
 
 // class dengan constructor
 class Mahasiswa{
+    //data member
     String nama, jurusan;
     int nim;
 
